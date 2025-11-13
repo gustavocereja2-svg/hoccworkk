@@ -7,18 +7,19 @@
     "theme_color": "#ffffff",
     "icons": [
         {
-            "src": "./img/ícones/ícones png/icone oficial 192 - revisado.png",
+            "src": "./img/ícones/ícones png/icone_oficial_192_revisado.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "./img/ícones/ícones png/icone oficial 512 - revisado.png",
+            "src": "./img/ícones/ícones png/icone_oficial_512_revisado.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ]
 
 }
+
 
 
 
